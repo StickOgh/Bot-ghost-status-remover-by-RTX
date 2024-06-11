@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Powered By Dino Bot","Made By Ian4Life","discord.gg/dinomms","Fast Middleman Service!"];
+const statusMessages = ["Safe Roblox Middleman Service!","Made By Ian4Life","Fast Middleman Service!"];
 
 
 let currentIndex = 0;
